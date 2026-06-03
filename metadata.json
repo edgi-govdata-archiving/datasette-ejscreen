@@ -1,0 +1,10 @@
+{
+  "title": "EDGI - EJScreen",
+  "description": "A single-table version of EJScreen published on Datasette",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "source": "EJScreen",
+  "source_url": "https://example-app.klutch.com",
+  "databases": {
+            }
+}
