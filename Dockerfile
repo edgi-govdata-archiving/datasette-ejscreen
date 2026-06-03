@@ -35,7 +35,7 @@ RUN mkdir -p /app/data && \
 # Copy database files and metadata
 COPY --chown=datasette:datasette data/ /app/data/
 COPY --chown=datasette:datasette metadata.json /app/
-COPY ejscreen_merged.db /app/data/
+COPY data/ejscreen_merged.db /app/data/
 
 # Switch to datasette user
 USER datasette
