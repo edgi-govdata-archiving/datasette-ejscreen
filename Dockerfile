@@ -48,7 +48,7 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 
 # Start Datasette
 CMD ["datasette", "serve", \
-     "/app/data/*.db", \
+     "/app/data/ejscreen_merged.db", \
      "--host", "0.0.0.0", \
      "--port", "8001", \
      "--metadata", "/app/metadata.json", \
