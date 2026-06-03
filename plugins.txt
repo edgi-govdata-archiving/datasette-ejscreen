@@ -6,4 +6,3 @@ datasette-pretty-json
 datasette-search-all
 datasette-export-notebook
 datasette-homepage-table
-datasette-media
