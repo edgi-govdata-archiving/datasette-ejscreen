@@ -1,8 +1,2 @@
 datasette-cluster-map
-datasette-vega
-datasette-copyable
-datasette-json-html
-datasette-pretty-json
-datasette-search-all
-datasette-export-notebook
 datasette-homepage-table
